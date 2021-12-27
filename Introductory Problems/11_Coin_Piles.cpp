@@ -4,16 +4,16 @@ using namespace std;
 typedef long long ll;
 
 /*
-    Let’s assume that we are removing xx number of times 22 coins from pile aa and 11 coin from pile bb.
+    Let’s assume that we are removing x number of times 2 coins from pile a and 1 coin from pile b.
 
-    Let’s assume that we are removing yy number of times 11 coin from pile aa and 22 coins from pile bb.
+    Let’s assume that we are removing y number of times 1 coin from pile a and 2 coins from pile b.
 
     Mathematically we can write our assumptions as:
     a = 2x + y 
     b = x + 2y 
 
-    We have two equations and we have two unknowns, means we can solve for xx and yy.
-    After solving the above equations for xx and yy, you will get:
+    We have two equations and we have two unknowns, means we can solve for x and y.
+    After solving the above equations for x and y, you will get:
     
     x = (2b - a)/3 
     y = (2a - b)/3​
