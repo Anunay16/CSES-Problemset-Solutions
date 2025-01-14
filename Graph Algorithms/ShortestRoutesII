@@ -1,3 +1,5 @@
 problem link: https://cses.fi/problemset/task/1672/
 cpp solution (not the best optimised): https://cses.fi/paste/aac982180ae34d3db32a3b/
-Java solution: https://cses.fi/paste/91ca7186d25f6f39b32d23/
+Java solution: https://cses.fi/paste/5a7b72ac0f10ac91b33dcf/
+
+Java solution includes tracing the whole path between any two vertices.
